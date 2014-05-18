@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VTLight", "VTLight\VTLight.csproj", "{9D06F847-BAD8-4963-9DE5-273F6FAD443D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestVTLight", "UnitTestVTLight\UnitTestVTLight.csproj", "{3032DD5A-1BEA-49E8-BA84-EC0FE1464A91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D06F847-BAD8-4963-9DE5-273F6FAD443D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D06F847-BAD8-4963-9DE5-273F6FAD443D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D06F847-BAD8-4963-9DE5-273F6FAD443D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D06F847-BAD8-4963-9DE5-273F6FAD443D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3032DD5A-1BEA-49E8-BA84-EC0FE1464A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3032DD5A-1BEA-49E8-BA84-EC0FE1464A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3032DD5A-1BEA-49E8-BA84-EC0FE1464A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3032DD5A-1BEA-49E8-BA84-EC0FE1464A91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
